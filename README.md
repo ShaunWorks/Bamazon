@@ -23,4 +23,4 @@ In order to run this application, you should have the MySQL database already set
 
 
 ### Manager Interace
-
+![Products Interface](screenshots/Manager Interface.png)
