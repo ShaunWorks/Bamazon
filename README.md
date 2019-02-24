@@ -18,7 +18,8 @@ In order to run this application, you should have the MySQL database already set
 - Run node bamazonManager.js for the Manager Interface
 
 ### Customer Interface
-(screenshots/Customer Products.png)
+![Products Interface](screenshots/Customer Products.png)
+
 
 
 ### Manager Interace
